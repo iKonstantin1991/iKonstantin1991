@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @iKonstantin1991
-- 👀 I’m interested in creating web applications using Python, Django, Flask.
-- 🌱 I’m currently learning FastAPI,
-- 💞️ I’m looking to collaborate on projects that help people
-- 📫 Feel free to write me on @ikonstantin91 or ikonstantin1991@mail.ru
+👋 Hi, I’m Konstantin Seravin!
+
+👀 I’m a software developer with a strong focus on backend development, particularly using Python and its rich set of frameworks like FastAPI, Flask and Django.
+
+💞️ I’m an open-minded, cheerful person, always excited to collaborate on projects that make a positive impact.
+
+
+📫 Feel free to write me on:
+  - telegram: [@iKonstantin1991](https://t.me/ikonstantin91)
+  - email: ikonstantin1991@mail.ru
+  - GitHub: [iKonstantin1991](https://github.com/iKonstantin1991) (you are here)
 
 <!---
 iKonstantin1991/iKonstantin1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
